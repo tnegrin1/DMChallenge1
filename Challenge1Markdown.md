@@ -2,7 +2,7 @@
 #### By: Tomer Negrin
 ---
 
-[README Link](../blob/master/README.md)
+[README Link](https://github.com/tnegrin1/DMChallenge1/blob/master/README.md)
 
 [Google Homepage](https://www.google.com/)
 
