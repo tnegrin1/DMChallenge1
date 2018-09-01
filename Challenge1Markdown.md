@@ -7,7 +7,7 @@
 [Google Homepage](https://www.google.com/)
 
 ![Google Logo](https://s.ppc.land/wp-content/uploads/2016/12/google.jpg)
-![Google Logo](/blob/master/jbareham_170504_1691_0020.0.0.jpg)
+![Google Logo](https://github.com/tnegrin1/DMChallenge1/blob/master/jbareham_170504_1691_0020.0.0.jpg)
 
 ```javascript
 var s = "Example Code Block"
