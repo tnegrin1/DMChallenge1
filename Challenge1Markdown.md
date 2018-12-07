@@ -1,5 +1,6 @@
 ## Challenge 1
 #### By: Tomer Negrin
+# **Digital Photography**
 ---
 
 [README Link](README.md)
